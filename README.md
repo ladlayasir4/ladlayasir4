@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ladlayasir4
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning 1year
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Install dependencies
+pkg install python git wget
+pip install pyfiglet termcolor faker qrcode phonenumbers requests
 
-<!---
-ladlayasir4/ladlayasir4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Download & run
+wget https://raw.githubusercontent.com/your-repo/setoolkit-v2/main/setoolkit.py
+python setoolkit.py
